@@ -59,3 +59,12 @@ a:active .xr_ro {opacity:0;}
 .xr_nb1:after {content: ''; position: absolute; top: 50%; right: .5em; height: 0px; width: 0px; border: 5px solid transparent; margin-top: -5px; margin-right: -3px; border-color: transparent; border-left-color: inherit;}
 .xr_apb {display:block; position:absolute;}
 .xr_bgb0 {background:url('99.png') -768px 2478px repeat;}
+#xr_nb1 {font-family:Arial; font-size:11px;}
+#xr_nb1 li:hover > a {background-color:#666666; color:#FFFFFF;}
+#xr_nb1 li a {color:#000000; background-color:#B2B2B2; padding:2px; padding-right:20px;}
+#xr_nb1 li > div {background-color:#B2B2B2; padding:2px;}
+#xr_nb1 .xr_nb6 {background-color:#000000;}
+#xr_nb1 li {border-color:#000000;}
+#xr_nb1 li:hover {border-color:#FFFFFF;}
+#xr_nb1 ul {border: solid 0px #000000;}
+#xr_nb1 .xr_nb2 {transition: visibility 300ms;}
