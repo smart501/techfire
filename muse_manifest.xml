@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="techfire.tk" resolutions="1x" timestamp="1485722536928">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="techfire.tk" resolutions="1x" timestamp="1485724144610">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_android-master.css" crc="3912321299" ref="apps:fix---tricks:android"/>
@@ -24,7 +24,7 @@
     <file name="require.js" crc="244322403" ref="index:about-us!:pc-area:android:tech-deals:fixes---tricks:softwares:fix---tricks:apps"/>
   </folder>
   <folder name="images">
-    <file name="untitled - copy.jpg" crc="191365958" seo="true" ref="index"/>
+    <file name="untitled - copy.jpg" crc="4014306945" seo="true" ref="index"/>
     <file name="fire!.png" crc="5031136" seo="true" ref="index:about-us!:pc-area:android:tech-deals:fixes---tricks:softwares:fix---tricks:apps"/>
     <file name="u176-10.png" crc="4249936881" ref="index"/>
     <file name="u205-4-a.png" crc="4263626210" ref="index"/>
@@ -80,15 +80,15 @@
     <file name="u2289-4.png" crc="163447415" ref="tech-deals"/>
     <file name="u2334-4-a.png" crc="508646308" ref="tech-deals"/>
     <file name="u2340-4.png" crc="4278130247" ref="tech-deals"/>
-    <file name="favicon.ico" crc="528919677" ref="index"/>
+    <file name="favicon.ico" crc="430844694" ref="index"/>
   </folder>
-  <file name="index.html" crc="414773349" seo="true" mt="1485722503412" redirect="true"/>
-  <file name="about-us!.html" crc="4051596688" seo="true" mt="1485722503412" redirect="true"/>
-  <file name="pc-area.html" crc="4047776539" seo="true" mt="1485722503412" redirect="true"/>
-  <file name="android.html" crc="3956141661" seo="true" mt="1485722503412" redirect="true"/>
-  <file name="tech-deals.html" crc="4159127678" seo="true" mt="1485722503412" redirect="true"/>
-  <file name="fixes---tricks.html" crc="116786638" seo="true" mt="1485722503412" redirect="true"/>
-  <file name="softwares.html" crc="231925987" seo="true" mt="1485722503412" redirect="true"/>
-  <file name="fix---tricks.html" crc="465762906" seo="true" mt="1485722503412" redirect="true"/>
-  <file name="apps.html" crc="374615882" seo="true" mt="1485722503412" redirect="true"/>
+  <file name="index.html" crc="3993509917" seo="true" mt="1485724078333" redirect="true"/>
+  <file name="about-us!.html" crc="252524823" seo="true" mt="1485724078520" redirect="true"/>
+  <file name="pc-area.html" crc="4020142164" seo="true" mt="1485724078583" redirect="true"/>
+  <file name="android.html" crc="4043617539" seo="true" mt="1485724078646" redirect="true"/>
+  <file name="tech-deals.html" crc="471325272" seo="true" mt="1485724078692" redirect="true"/>
+  <file name="fixes---tricks.html" crc="3975860285" seo="true" mt="1485724078755" redirect="true"/>
+  <file name="softwares.html" crc="401617397" seo="true" mt="1485724078817" redirect="true"/>
+  <file name="fix---tricks.html" crc="4004248597" seo="true" mt="1485724078880" redirect="true"/>
+  <file name="apps.html" crc="37670886" seo="true" mt="1485724078927" redirect="true"/>
 </manifest>
