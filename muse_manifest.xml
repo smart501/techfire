@@ -1,0 +1,94 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="techfire.tk" resolutions="1x" timestamp="1485722536928">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_android-master.css" crc="3912321299" ref="apps:fix---tricks:android"/>
+    <file name="master_main-master.css" crc="3887763119" ref="softwares:about-us!:pc-area:fixes---tricks"/>
+    <file name="softwares.css" crc="255414220" ref="softwares"/>
+    <file name="index.css" crc="377834091" ref="index"/>
+    <file name="apps.css" crc="3983006925" ref="apps"/>
+    <file name="fix---tricks.css" crc="3983006925" ref="fix---tricks"/>
+    <file name="tech-deals.css" crc="362046858" ref="tech-deals"/>
+    <file name="android.css" crc="3983006925" ref="android"/>
+    <file name="about-us_.css" crc="511400710" ref="about-us!"/>
+    <file name="pc-area.css" crc="255414220" ref="pc-area"/>
+    <file name="fixes---tricks.css" crc="255414220" ref="fixes---tricks"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-us!:pc-area:android:tech-deals:fixes---tricks:softwares:fix---tricks:apps"/>
+    <file name="museutils.js" crc="163421577" ref="index:about-us!:pc-area:android:tech-deals:fixes---tricks:softwares:fix---tricks:apps"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-us!:pc-area:android:tech-deals:fixes---tricks:softwares:fix---tricks:apps"/>
+    <file name="museconfig.js" crc="168988563" ref="index:about-us!:pc-area:android:tech-deals:fixes---tricks:softwares:fix---tricks:apps"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:about-us!:pc-area:android:tech-deals:fixes---tricks:softwares:fix---tricks:apps"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:about-us!:pc-area:android:tech-deals:fixes---tricks:softwares:fix---tricks:apps"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-us!:pc-area:android:tech-deals:fixes---tricks:softwares:fix---tricks:apps"/>
+    <file name="require.js" crc="244322403" ref="index:about-us!:pc-area:android:tech-deals:fixes---tricks:softwares:fix---tricks:apps"/>
+  </folder>
+  <folder name="images">
+    <file name="untitled - copy.jpg" crc="191365958" seo="true" ref="index"/>
+    <file name="fire!.png" crc="5031136" seo="true" ref="index:about-us!:pc-area:android:tech-deals:fixes---tricks:softwares:fix---tricks:apps"/>
+    <file name="u176-10.png" crc="4249936881" ref="index"/>
+    <file name="u205-4-a.png" crc="4263626210" ref="index"/>
+    <file name="u212-4.png" crc="3792993960" ref="index"/>
+    <file name="u249-4.png" crc="3887103612" ref="index"/>
+    <file name="u281-4.png" crc="463800895" ref="index"/>
+    <file name="u307-4.png" crc="4045842602" ref="index"/>
+    <file name="u426-4.png" crc="494243080" ref="index"/>
+    <file name="projectvalerie3_1484236411105 - copy.png" crc="166145184" seo="true" ref="index"/>
+    <file name="u162-4.png" crc="4123353992" ref="index"/>
+    <file name="17_1415906343_detail_image_broken-macbook-pro.png" crc="3879449266" seo="true" ref="index"/>
+    <file name="u342-7.png" crc="4047377413" ref="index"/>
+    <file name="u355-7.png" crc="343314320" ref="index"/>
+    <file name="customize.png" crc="3984885074" seo="true" ref="index"/>
+    <file name="premiere_pro-512.png" crc="340707341" seo="true" ref="index"/>
+    <file name="u371-4.png" crc="3762768305" ref="index"/>
+    <file name="sony-vegas-pro-logo.png" crc="4261983775" seo="true" ref="index"/>
+    <file name="u384-7.png" crc="7908006" ref="index"/>
+    <file name="android-developer2.png" crc="4049869712" seo="true" ref="index"/>
+    <file name="u397-7.png" crc="470151160" ref="index"/>
+    <file name="prg.png" crc="507393189" seo="true" ref="index"/>
+    <file name="u423-7.png" crc="3899045005" ref="index"/>
+    <file name="fire bar.jpg" crc="3937245226" seo="true" ref="about-us!:pc-area:fixes---tricks:softwares"/>
+    <file name="u473-4.png" crc="4263626210" ref="about-us!:pc-area:fixes---tricks:softwares"/>
+    <file name="u480-4.png" crc="4147008087" ref="about-us!:pc-area:fixes---tricks:softwares"/>
+    <file name="u1527-4.png" crc="4239845238" ref="about-us!:pc-area:fixes---tricks:softwares"/>
+    <file name="u1557-4.png" crc="4008081618" ref="about-us!:pc-area:fixes---tricks:softwares"/>
+    <file name="u517-4.png" crc="212641876" ref="about-us!:pc-area:fixes---tricks:softwares"/>
+    <file name="u1593-4.png" crc="4159532074" ref="about-us!:pc-area:fixes---tricks:softwares"/>
+    <file name="u1625-4.png" crc="163447415" ref="about-us!:pc-area:fixes---tricks:softwares"/>
+    <file name="u547-4.png" crc="508646308" ref="about-us!:pc-area:fixes---tricks:softwares"/>
+    <file name="u574-4.png" crc="4278130247" ref="about-us!:pc-area:fixes---tricks:softwares"/>
+    <file name="omen-hero_1485017730628 - copy.png" crc="3993348351" seo="true" ref="about-us!"/>
+    <file name="u609-7.png" crc="3759964364" ref="about-us!"/>
+    <file name="u612-41.png" crc="3782050803" ref="about-us!"/>
+    <file name="fire bar android.jpg" crc="248426198" seo="true" ref="android:fix---tricks:apps"/>
+    <file name="u2096-4.png" crc="4263626210" ref="android:fix---tricks:apps"/>
+    <file name="u2075-4.png" crc="4147008087" ref="android:fix---tricks:apps"/>
+    <file name="u2087-4.png" crc="4239845238" ref="android:fix---tricks:apps"/>
+    <file name="u2081-4.png" crc="4008081618" ref="android:fix---tricks:apps"/>
+    <file name="u2070-4.png" crc="212641876" ref="android:fix---tricks:apps"/>
+    <file name="u2064-4.png" crc="4159532074" ref="android:fix---tricks:apps"/>
+    <file name="u2059-4.png" crc="163447415" ref="android:fix---tricks:apps"/>
+    <file name="u2104-4.png" crc="508646308" ref="android:fix---tricks:apps"/>
+    <file name="u2110-4.png" crc="4278130247" ref="android:fix---tricks:apps"/>
+    <file name="43a40419110b85f7d600ebda3806474a - copy.jpg" crc="412552724" seo="true" ref="tech-deals"/>
+    <file name="u2326-4.png" crc="4263626210" ref="tech-deals"/>
+    <file name="u2305-4.png" crc="4147008087" ref="tech-deals"/>
+    <file name="u2317-4.png" crc="4239845238" ref="tech-deals"/>
+    <file name="u2311-4.png" crc="4008081618" ref="tech-deals"/>
+    <file name="u2300-4.png" crc="212641876" ref="tech-deals"/>
+    <file name="u2294-4.png" crc="4159532074" ref="tech-deals"/>
+    <file name="u2289-4.png" crc="163447415" ref="tech-deals"/>
+    <file name="u2334-4-a.png" crc="508646308" ref="tech-deals"/>
+    <file name="u2340-4.png" crc="4278130247" ref="tech-deals"/>
+    <file name="favicon.ico" crc="528919677" ref="index"/>
+  </folder>
+  <file name="index.html" crc="414773349" seo="true" mt="1485722503412" redirect="true"/>
+  <file name="about-us!.html" crc="4051596688" seo="true" mt="1485722503412" redirect="true"/>
+  <file name="pc-area.html" crc="4047776539" seo="true" mt="1485722503412" redirect="true"/>
+  <file name="android.html" crc="3956141661" seo="true" mt="1485722503412" redirect="true"/>
+  <file name="tech-deals.html" crc="4159127678" seo="true" mt="1485722503412" redirect="true"/>
+  <file name="fixes---tricks.html" crc="116786638" seo="true" mt="1485722503412" redirect="true"/>
+  <file name="softwares.html" crc="231925987" seo="true" mt="1485722503412" redirect="true"/>
+  <file name="fix---tricks.html" crc="465762906" seo="true" mt="1485722503412" redirect="true"/>
+  <file name="apps.html" crc="374615882" seo="true" mt="1485722503412" redirect="true"/>
+</manifest>
