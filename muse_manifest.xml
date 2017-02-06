@@ -1,27 +1,23 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="techfire.tk" resolutions="1x" timestamp="1486214935752">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="techfire.tk" resolutions="1x" timestamp="1486412416545">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="226605484" ref="index"/>
-    <file name="master_android-master.css" crc="288507463" ref="android"/>
-    <file name="master_main-master.css" crc="3790832499" ref="about-us!"/>
-    <file name="tech-deals.css" crc="362047181" ref="tech-deals"/>
-    <file name="about-us_.css" crc="3851828538" ref="about-us!"/>
-    <file name="android.css" crc="464269245" ref="android"/>
+    <file name="about-us_.css" crc="3862668538" ref="about-us!"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-us!:android:tech-deals"/>
-    <file name="museutils.js" crc="163421577" ref="index:about-us!:android:tech-deals"/>
-    <file name="whatinput.js" crc="86476730" ref="index:about-us!:android:tech-deals"/>
-    <file name="museconfig.js" crc="168988563" ref="index:about-us!:android:tech-deals"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index:about-us!:android:tech-deals"/>
-    <file name="require.js" crc="244322403" ref="index:about-us!:android:tech-deals"/>
-    <file name="jquery.musemenu.js" crc="146495465" ref="index:about-us!:android:tech-deals"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:about-us!:android:tech-deals"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-us!"/>
+    <file name="museutils.js" crc="163421577" ref="index:about-us!"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-us!"/>
+    <file name="museconfig.js" crc="168988563" ref="index:about-us!"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:about-us!"/>
+    <file name="require.js" crc="244322403" ref="index:about-us!"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:about-us!"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-us!"/>
   </folder>
   <folder name="images">
-    <file name="fire!.png" crc="5031136" seo="true" ref="index:about-us!:android:tech-deals"/>
+    <file name="fire!.png" crc="5031136" seo="true" ref="index:about-us!"/>
     <file name="fire bar.jpg" crc="3937245226" seo="true" ref="about-us!"/>
-    <file name="favicon.ico" crc="430844694" ref="index:about-us!"/>
+    <file name="favicon.ico" crc="430844694" ref="index"/>
     <file name="untitled - copy.jpg" crc="4014306945" seo="true" ref="index"/>
     <file name="u176-10.png" crc="4249936881" ref="index"/>
     <file name="u426-4.png" crc="494243080" ref="index"/>
@@ -44,28 +40,14 @@
     <file name="u397-7.png" crc="470151160" ref="index"/>
     <file name="prg.png" crc="507393189" seo="true" ref="index"/>
     <file name="u423-7.png" crc="3899045005" ref="index"/>
-    <file name="u2532-4.png" crc="4263626210" ref="about-us!"/>
-    <file name="u2681-4.png" crc="4147008087" ref="about-us!"/>
-    <file name="u2701-4.png" crc="212641876" ref="about-us!"/>
-    <file name="u2723-4.png" crc="508646308" ref="about-us!"/>
-    <file name="u2742-4.png" crc="4278130247" ref="about-us!"/>
+    <file name="u4133-4.png" crc="4263626210" ref="about-us!"/>
+    <file name="u4147-4.png" crc="4147008087" ref="about-us!"/>
+    <file name="u4142-4.png" crc="212641876" ref="about-us!"/>
+    <file name="u4126-4.png" crc="508646308" ref="about-us!"/>
+    <file name="u4117-4.png" crc="4278130247" ref="about-us!"/>
     <file name="omen-hero_1485017730628 - copy.png" crc="3993348351" seo="true" ref="about-us!"/>
-    <file name="u609-7.png" crc="3773177794" ref="about-us!"/>
-    <file name="u612-35.png" crc="4232656551" ref="about-us!"/>
-    <file name="fire bar android.jpg" crc="248426198" seo="true" ref="android"/>
-    <file name="u3000-4.png" crc="4263626210" ref="android"/>
-    <file name="u3006-4.png" crc="4147008087" ref="android"/>
-    <file name="u3028-4.png" crc="212641876" ref="android"/>
-    <file name="u3012-4.png" crc="508646308" ref="android"/>
-    <file name="u3022-4.png" crc="4278130247" ref="android"/>
-    <file name="43a40419110b85f7d600ebda3806474a - copy.jpg" crc="412552724" seo="true" ref="tech-deals"/>
-    <file name="u2326-4.png" crc="12456076" ref="tech-deals"/>
-    <file name="u2300-4.png" crc="3814608929" ref="tech-deals"/>
-    <file name="u2334-4-a.png" crc="231971257" ref="tech-deals"/>
-    <file name="u2340-4.png" crc="4236772456" ref="tech-deals"/>
+    <file name="u612-35.png" crc="375469340" ref="about-us!"/>
   </folder>
-  <file name="index.html" crc="4183713571" seo="true" mt="1486147601793" redirect="true"/>
-  <file name="about-us!.html" crc="514489790" seo="true" mt="1486210339545" redirect="true"/>
-  <file name="android.html" crc="391148871" seo="true" mt="1486147649576" redirect="true"/>
-  <file name="tech-deals.html" crc="378502397" seo="true" mt="1486139069933" redirect="true"/>
+  <file name="index.html" crc="36156377" seo="true" mt="1486410960706" redirect="true"/>
+  <file name="about-us!.html" crc="60140663" seo="true" mt="1486412381767" redirect="true"/>
 </manifest>
