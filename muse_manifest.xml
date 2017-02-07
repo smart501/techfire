@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="techfire.tk" resolutions="1x" timestamp="1486412416545">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="techfire.tk" resolutions="1x" timestamp="1486461992902">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="226605484" ref="index"/>
-    <file name="about-us_.css" crc="3862668538" ref="about-us!"/>
+    <file name="about-us_.css" crc="4014208905" ref="about-us!"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-us!"/>
@@ -17,7 +17,7 @@
   <folder name="images">
     <file name="fire!.png" crc="5031136" seo="true" ref="index:about-us!"/>
     <file name="fire bar.jpg" crc="3937245226" seo="true" ref="about-us!"/>
-    <file name="favicon.ico" crc="430844694" ref="index"/>
+    <file name="favicon.ico" crc="430844694" ref="index:about-us!"/>
     <file name="untitled - copy.jpg" crc="4014306945" seo="true" ref="index"/>
     <file name="u176-10.png" crc="4249936881" ref="index"/>
     <file name="u426-4.png" crc="494243080" ref="index"/>
@@ -46,8 +46,8 @@
     <file name="u4126-4.png" crc="508646308" ref="about-us!"/>
     <file name="u4117-4.png" crc="4278130247" ref="about-us!"/>
     <file name="omen-hero_1485017730628 - copy.png" crc="3993348351" seo="true" ref="about-us!"/>
-    <file name="u612-35.png" crc="375469340" ref="about-us!"/>
+    <file name="u612-41.png" crc="4070348421" ref="about-us!"/>
   </folder>
   <file name="index.html" crc="36156377" seo="true" mt="1486410960706" redirect="true"/>
-  <file name="about-us!.html" crc="60140663" seo="true" mt="1486412381767" redirect="true"/>
+  <file name="about-us!.html" crc="243305353" seo="true" mt="1486461913478" redirect="true"/>
 </manifest>
