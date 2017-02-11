@@ -1,0 +1,53 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="techfire.tk" resolutions="1x" timestamp="1486845863550">
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="4013929370" ref="phone>index"/>
+      <file name="about-us_.css" crc="3833050251" ref="phone>about-us!"/>
+      <file name="test.css" crc="62426684" ref="phone>test"/>
+    </folder>
+    <file name="index.html" crc="89596241" seo="true" mt="1486845848584" redirect="true"/>
+    <file name="about-us!.html" crc="3906516110" seo="true" mt="1486827507271" redirect="false"/>
+    <file name="test.html" crc="20014747" seo="true" mt="1486827507310" redirect="false"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4025879157" ref="index"/>
+    <file name="about-us_.css" crc="378733425" ref="about-us!"/>
+    <file name="test.css" crc="3892328806" ref="test"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-us!:test:phone>index:phone>about-us!:phone>test"/>
+    <file name="museutils.js" crc="163421577" ref="index:about-us!:test:phone>index:phone>about-us!:phone>test"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-us!:test:phone>index:phone>about-us!:phone>test"/>
+    <file name="museconfig.js" crc="168988563" ref="index:about-us!:test:phone>index:phone>about-us!:phone>test"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:about-us!:test:phone>index:phone>about-us!:phone>test"/>
+    <file name="require.js" crc="244322403" ref="index:about-us!:test:phone>index:phone>about-us!:phone>test"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:about-us!:test:phone>index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-us!:test:phone>index:phone>about-us!:phone>test"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="test"/>
+    <file name="webpro.js" crc="3848665353" ref="phone>index"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="phone>index"/>
+  </folder>
+  <folder name="images">
+    <file name="fire!.png" crc="5031136" seo="true" ref="index:about-us!:test"/>
+    <file name="fire bar.jpg" crc="3937245226" seo="true" ref="about-us!"/>
+    <file name="favicon.ico" crc="133194811" ref="phone>index"/>
+    <file name="untitled - copy.jpg" crc="69127884" ref="test"/>
+    <file name="projectvalerie3_1484236411105 - copy.png" crc="166145184" seo="true" ref="index"/>
+    <file name="17_1415906343_detail_image_broken-macbook-pro.png" crc="3879449266" seo="true" ref="index"/>
+    <file name="customize.png" crc="3984885074" seo="true" ref="index"/>
+    <file name="premiere_pro-512.png" crc="340707341" seo="true" ref="index"/>
+    <file name="u371-4.png" crc="3762768305" ref="index"/>
+    <file name="sony-vegas-pro-logo.png" crc="4261983775" seo="true" ref="index"/>
+    <file name="android-developer2.png" crc="4049869712" seo="true" ref="index"/>
+    <file name="prg.png" crc="507393189" seo="true" ref="index"/>
+    <file name="omen-hero_1485017730628 - copy.png" crc="3993348351" seo="true" ref="about-us!"/>
+    <file name="u612-42.png" crc="4040111920" ref="about-us!"/>
+    <file name="untitled - copy1200x282.jpg" crc="4279016504" seo="true" ref="index"/>
+    <file name="untitled - copy380x89.jpg" crc="114239670" seo="true" ref="phone>index"/>
+    <file name="0u3hv1r.png" crc="4101116393" seo="true" ref="phone>index"/>
+  </folder>
+  <file name="index.html" crc="499072346" seo="true" mt="1486827542386" redirect="true"/>
+  <file name="about-us!.html" crc="223123792" seo="true" mt="1486827507681" redirect="true"/>
+  <file name="test.html" crc="4066961216" seo="true" mt="1486845857915" redirect="true"/>
+</manifest>
